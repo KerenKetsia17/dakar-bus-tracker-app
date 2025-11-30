@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "514249571252",
+    "firebase_url": "https://dakar-bus-tracker-app-default-rtdb.firebaseio.com",
+    "project_id": "dakar-bus-tracker-app",
+    "storage_bucket": "dakar-bus-tracker-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514249571252:android:75f56fa7d655d69b2c90e1",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ONsB7BBGKGZOfTlDut6hQKDfw3jh4SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514249571252:android:391709a2723286482c90e1",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ONsB7BBGKGZOfTlDut6hQKDfw3jh4SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
